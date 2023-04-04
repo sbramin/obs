@@ -1,0 +1,13 @@
+name = "obscure Flex"
+license = "Apache-2.0"
+licenselink = ""
+description = "A lightweight Hugo theme leveraging CSS Flexbox"
+homepage = ""
+demosite = ""
+tags = ["responsive", "minimal", "flexbox", "no-javascript"]
+features = ["posts"]
+min_version = "0.65"
+
+[author]
+  name = ""
+  homepage = ""

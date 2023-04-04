@@ -1,0 +1,4 @@
+baseURL = 'https://obscurity.xyz/'
+languageCode = 'en-us'
+title = 'obscurity' 
+theme = 'oblex'
