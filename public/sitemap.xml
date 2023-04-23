@@ -2,43 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://obscurity.xyz/categories/</loc>
+    <lastmod>2023-04-21T10:09:27+00:00</lastmod>
+  </url><url>
+    <loc>https://obscurity.xyz/tags/children/</loc>
+    <lastmod>2023-04-21T10:09:27+00:00</lastmod>
+  </url><url>
+    <loc>https://obscurity.xyz/tags/cottages/</loc>
+    <lastmod>2023-04-21T10:09:27+00:00</lastmod>
+  </url><url>
+    <loc>https://obscurity.xyz/tags/false/</loc>
+    <lastmod>2023-04-21T10:09:27+00:00</lastmod>
+  </url><url>
+    <loc>https://obscurity.xyz/tags/frank/</loc>
+    <lastmod>2023-04-21T10:09:27+00:00</lastmod>
+  </url><url>
+    <loc>https://obscurity.xyz/tags/horizontal/</loc>
+    <lastmod>2023-04-21T10:09:27+00:00</lastmod>
+  </url><url>
+    <loc>https://obscurity.xyz/posts/sbr-20230421-1000632/</loc>
+    <lastmod>2023-04-21T10:09:27+00:00</lastmod>
+  </url><url>
+    <loc>https://obscurity.xyz/</loc>
+    <lastmod>2023-04-21T10:09:27+00:00</lastmod>
+  </url><url>
+    <loc>https://obscurity.xyz/tags/play/</loc>
+    <lastmod>2023-04-21T10:09:27+00:00</lastmod>
+  </url><url>
+    <loc>https://obscurity.xyz/posts/</loc>
+    <lastmod>2023-04-21T10:09:27+00:00</lastmod>
+  </url><url>
+    <loc>https://obscurity.xyz/categories/singles/</loc>
+    <lastmod>2023-04-21T10:09:27+00:00</lastmod>
+  </url><url>
+    <loc>https://obscurity.xyz/tags/sussex/</loc>
+    <lastmod>2023-04-21T10:09:27+00:00</lastmod>
+  </url><url>
+    <loc>https://obscurity.xyz/tags/</loc>
+    <lastmod>2023-04-21T10:09:27+00:00</lastmod>
+  </url><url>
+    <loc>https://obscurity.xyz/tags/trees/</loc>
+    <lastmod>2023-04-21T10:09:27+00:00</lastmod>
+  </url><url>
+    <loc>https://obscurity.xyz/tags/uk/</loc>
+    <lastmod>2023-04-21T10:09:27+00:00</lastmod>
+  </url><url>
     <loc>https://obscurity.xyz/tags/carriage/</loc>
     <lastmod>2023-04-20T08:43:23+00:00</lastmod>
   </url><url>
-    <loc>https://obscurity.xyz/categories/</loc>
-    <lastmod>2023-04-20T08:43:23+00:00</lastmod>
-  </url><url>
-    <loc>https://obscurity.xyz/tags/cottages/</loc>
-    <lastmod>2023-04-20T08:43:23+00:00</lastmod>
-  </url><url>
-    <loc>https://obscurity.xyz/tags/frank/</loc>
-    <lastmod>2023-04-20T08:43:23+00:00</lastmod>
-  </url><url>
-    <loc>https://obscurity.xyz/tags/horizontal/</loc>
-    <lastmod>2023-04-20T08:43:23+00:00</lastmod>
-  </url><url>
     <loc>https://obscurity.xyz/tags/horse/</loc>
-    <lastmod>2023-04-20T08:43:23+00:00</lastmod>
-  </url><url>
-    <loc>https://obscurity.xyz/</loc>
-    <lastmod>2023-04-20T08:43:23+00:00</lastmod>
-  </url><url>
-    <loc>https://obscurity.xyz/posts/</loc>
     <lastmod>2023-04-20T08:43:23+00:00</lastmod>
   </url><url>
     <loc>https://obscurity.xyz/tags/princess/</loc>
     <lastmod>2023-04-20T08:43:23+00:00</lastmod>
   </url><url>
     <loc>https://obscurity.xyz/posts/sbr-20230420-1000593/</loc>
-    <lastmod>2023-04-20T08:43:23+00:00</lastmod>
-  </url><url>
-    <loc>https://obscurity.xyz/categories/singles/</loc>
-    <lastmod>2023-04-20T08:43:23+00:00</lastmod>
-  </url><url>
-    <loc>https://obscurity.xyz/tags/</loc>
-    <lastmod>2023-04-20T08:43:23+00:00</lastmod>
-  </url><url>
-    <loc>https://obscurity.xyz/tags/uk/</loc>
     <lastmod>2023-04-20T08:43:23+00:00</lastmod>
   </url><url>
     <loc>https://obscurity.xyz/tags/windy/</loc>
@@ -393,9 +411,6 @@
     <lastmod>2022-12-10T13:39:28-05:00</lastmod>
   </url><url>
     <loc>https://obscurity.xyz/posts/sbr-20221210-1000534/</loc>
-    <lastmod>2022-12-10T13:39:28-05:00</lastmod>
-  </url><url>
-    <loc>https://obscurity.xyz/tags/trees/</loc>
     <lastmod>2022-12-10T13:39:28-05:00</lastmod>
   </url><url>
     <loc>https://obscurity.xyz/posts/sbr-20221209-1000521/</loc>
@@ -1455,9 +1470,6 @@
     <lastmod>2008-11-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://obscurity.xyz/posts/sbr-20081110-5010110814/</loc>
-    <lastmod>2008-11-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://obscurity.xyz/tags/children/</loc>
     <lastmod>2008-11-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://obscurity.xyz/tags/four-boys/</loc>
