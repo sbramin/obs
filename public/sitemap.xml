@@ -3,7 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://obscurity.xyz/categories/</loc>
-    <lastmod>2023-04-21T10:09:27+00:00</lastmod>
+    <lastmod>2023-05-21T00:55:10+00:00</lastmod>
+  </url><url>
+    <loc>https://obscurity.xyz/tags/clouds/</loc>
+    <lastmod>2023-05-21T00:55:10+00:00</lastmod>
+  </url><url>
+    <loc>https://obscurity.xyz/tags/ec/</loc>
+    <lastmod>2023-05-21T00:55:10+00:00</lastmod>
+  </url><url>
+    <loc>https://obscurity.xyz/tags/horizontal/</loc>
+    <lastmod>2023-05-21T00:55:10+00:00</lastmod>
+  </url><url>
+    <loc>https://obscurity.xyz/tags/morgans-bay/</loc>
+    <lastmod>2023-05-21T00:55:10+00:00</lastmod>
+  </url><url>
+    <loc>https://obscurity.xyz/</loc>
+    <lastmod>2023-05-21T00:55:10+00:00</lastmod>
+  </url><url>
+    <loc>https://obscurity.xyz/posts/</loc>
+    <lastmod>2023-05-21T00:55:10+00:00</lastmod>
+  </url><url>
+    <loc>https://obscurity.xyz/tags/seuss-tree/</loc>
+    <lastmod>2023-05-21T00:55:10+00:00</lastmod>
+  </url><url>
+    <loc>https://obscurity.xyz/posts/sbr-20230521-1000940/</loc>
+    <lastmod>2023-05-21T00:55:10+00:00</lastmod>
+  </url><url>
+    <loc>https://obscurity.xyz/categories/singles/</loc>
+    <lastmod>2023-05-21T00:55:10+00:00</lastmod>
+  </url><url>
+    <loc>https://obscurity.xyz/tags/sky/</loc>
+    <lastmod>2023-05-21T00:55:10+00:00</lastmod>
+  </url><url>
+    <loc>https://obscurity.xyz/tags/south-africa/</loc>
+    <lastmod>2023-05-21T00:55:10+00:00</lastmod>
+  </url><url>
+    <loc>https://obscurity.xyz/tags/</loc>
+    <lastmod>2023-05-21T00:55:10+00:00</lastmod>
+  </url><url>
+    <loc>https://obscurity.xyz/tags/trees/</loc>
+    <lastmod>2023-05-21T00:55:10+00:00</lastmod>
   </url><url>
     <loc>https://obscurity.xyz/tags/children/</loc>
     <lastmod>2023-04-21T10:09:27+00:00</lastmod>
@@ -17,31 +56,13 @@
     <loc>https://obscurity.xyz/tags/frank/</loc>
     <lastmod>2023-04-21T10:09:27+00:00</lastmod>
   </url><url>
-    <loc>https://obscurity.xyz/tags/horizontal/</loc>
-    <lastmod>2023-04-21T10:09:27+00:00</lastmod>
-  </url><url>
     <loc>https://obscurity.xyz/posts/sbr-20230421-1000632/</loc>
-    <lastmod>2023-04-21T10:09:27+00:00</lastmod>
-  </url><url>
-    <loc>https://obscurity.xyz/</loc>
     <lastmod>2023-04-21T10:09:27+00:00</lastmod>
   </url><url>
     <loc>https://obscurity.xyz/tags/play/</loc>
     <lastmod>2023-04-21T10:09:27+00:00</lastmod>
   </url><url>
-    <loc>https://obscurity.xyz/posts/</loc>
-    <lastmod>2023-04-21T10:09:27+00:00</lastmod>
-  </url><url>
-    <loc>https://obscurity.xyz/categories/singles/</loc>
-    <lastmod>2023-04-21T10:09:27+00:00</lastmod>
-  </url><url>
     <loc>https://obscurity.xyz/tags/sussex/</loc>
-    <lastmod>2023-04-21T10:09:27+00:00</lastmod>
-  </url><url>
-    <loc>https://obscurity.xyz/tags/</loc>
-    <lastmod>2023-04-21T10:09:27+00:00</lastmod>
-  </url><url>
-    <loc>https://obscurity.xyz/tags/trees/</loc>
     <lastmod>2023-04-21T10:09:27+00:00</lastmod>
   </url><url>
     <loc>https://obscurity.xyz/tags/uk/</loc>
@@ -342,9 +363,6 @@
     <lastmod>2023-01-14T16:03:14-05:00</lastmod>
   </url><url>
     <loc>https://obscurity.xyz/tags/boathouse/</loc>
-    <lastmod>2023-01-12T16:19:43-05:00</lastmod>
-  </url><url>
-    <loc>https://obscurity.xyz/tags/clouds/</loc>
     <lastmod>2023-01-12T16:19:43-05:00</lastmod>
   </url><url>
     <loc>https://obscurity.xyz/tags/docks/</loc>
@@ -1100,9 +1118,6 @@
     <loc>https://obscurity.xyz/tags/planes/</loc>
     <lastmod>2009-08-16T20:28:15+00:00</lastmod>
   </url><url>
-    <loc>https://obscurity.xyz/tags/sky/</loc>
-    <lastmod>2009-08-16T20:28:15+00:00</lastmod>
-  </url><url>
     <loc>https://obscurity.xyz/posts/sbr-20090816-10616080915/</loc>
     <lastmod>2009-08-16T20:28:15+00:00</lastmod>
   </url><url>
@@ -1815,7 +1830,6 @@
     <lastmod>2008-06-08T15:50:17+00:00</lastmod>
   </url><url>
     <loc>https://obscurity.xyz/about/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>https://obscurity.xyz/tags/50-f/2/</loc>
   </url>
